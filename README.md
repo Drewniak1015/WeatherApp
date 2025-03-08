@@ -2,6 +2,12 @@
 
 WeatherApp to aplikacja webowa, która pozwala użytkownikom na sprawdzenie prognozy pogody w wybranych miastach na podstawie danych uzyskanych z publicznego API.
 
+## WeatherApp
+
+Aplikację możesz sprawdzić online, klikając poniższy link:
+
+[WeatherApp - sprawdź prognozę pogody](https://drewniak1015.github.io/WeatherApp/)
+
 ## Funkcjonalności
 
 - **Wyszukiwanie państw**: Użytkownicy mogą wyszukiwać miasto, aby sprawdzić aktualne warunki pogodowe.
