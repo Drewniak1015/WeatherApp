@@ -38,6 +38,17 @@ Aby uruchomić aplikację lokalnie:
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/TwojaNazwaUzytkownika/WeatherApp.git
-2. Przejdź do katalogu aplikacji: cd WeatherApp
-3. Zainstaluj zależności: npm install
-4. Uruchom aplikację: npm run start
+2. Wejdź do folderu projektu:
+    ```bash
+    cd CustomDropDownMenu
+    ```
+
+3. Zainstaluj zależności:
+    ```bash
+    npm install
+    ```
+
+4. Uruchom aplikację:
+    ```bash
+    npm start
+    ```
